@@ -1,0 +1,14 @@
+.transcription-box {
+  width: 100%;
+  padding: 1rem;
+  background: #f3f4f6;
+  border-radius: 0.75rem;
+  min-height: 100px;
+  color: #222;
+  font-size: 1rem;
+  white-space: pre-wrap;
+  box-sizing: border-box;
+}
+.transcription-placeholder {
+  color: #b0b0b0;
+} 
